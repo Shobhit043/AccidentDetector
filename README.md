@@ -47,7 +47,14 @@ I used it to send message to helplines(though in this project i have only set my
 #### Note: all credential are not present in the code and you must create your own vonage account the send sms succesfully, temp folder is necessary to temporarily store the input video and it also contain Accident-1.mp4 in case you want to test the project
 
 ## Demo
-https://github.com/Shobhit043/AccidentDetector/assets/155233157/faef6bd9-c4c7-47f7-af29-ff4a60b91e72
+
+https://github.com/Shobhit043/AccidentDetector/assets/155233157/e9533eb9-14c0-42ef-a1cd-e5def97f8e44
+
+## SMS MESSAGE
+
+![Screenshot (459)](https://github.com/Shobhit043/AccidentDetector/assets/155233157/9b3e53b2-bb62-47ea-900b-635b81e22ce5)
+
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details

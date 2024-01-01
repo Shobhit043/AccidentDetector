@@ -32,8 +32,9 @@ These layers are designed to capture more complex patterns and hierarchies in th
 
 ## Model Performance
 The model is around 92% accurate and can be trained and tuned further on a mouch larger dataset.
-![Screenshot (456)](https://github.com/Shobhit043/AccidentDetector/assets/155233157/28e63fe4-fdd0-4c61-940a-10acd4b8b29b)
-![Screenshot (457)](https://github.com/Shobhit043/AccidentDetector/assets/155233157/57c14a64-fe95-458f-a88a-9dcda27680ad)
+
+![Screenshot (456)](https://github.com/Shobhit043/AccidentDetector/assets/155233157/565a758f-1736-4fee-899b-92d92b5292f3)
+![Screenshot (457)](https://github.com/Shobhit043/AccidentDetector/assets/155233157/ef8d3a69-70c3-4ea5-bb7e-e5ceb14181f5)
 
 
 ## Geopy
@@ -45,6 +46,8 @@ Vonage offers a free SMS API that enables developers to integrate SMS capabiliti
 I used it to send message to helplines(though in this project i have only set my own phone number)
 #### Note: all credential are not present in the code and you must create your own vonage account the send sms succesfully, temp folder is necessary to temporarily store the input video and it also contain Accident-1.mp4 in case you want to test the project
 
+## Demo
+https://github.com/Shobhit043/AccidentDetector/assets/155233157/faef6bd9-c4c7-47f7-af29-ff4a60b91e72
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details

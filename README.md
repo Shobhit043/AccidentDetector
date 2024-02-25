@@ -1,4 +1,4 @@
-# Accident Detector
+# Automated Road Accident  Altering System
 ## Overview
 This project aims to train image detection model that is capable of detecting road accidents in real time and send emergency messages containig current location of device
 to all helplines.
